@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/grins/Documents/database_engine/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++17 -o CMakeFiles/database_engine.dir/src/tables.cpp.o -c /home/grins/Documents/database_engine/src/tables.cpp",
+  "file": "/home/grins/Documents/database_engine/src/tables.cpp",
+  "output": "CMakeFiles/database_engine.dir/src/tables.cpp.o"
+}
+]
